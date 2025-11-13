@@ -1,0 +1,18 @@
+{
+  "name": "xing-data-extractor",
+  "version": "1.0.0",
+  "description": "CLI tool to simulate extraction of profiles, jobs, companies, and communities from XING-like data.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "xing",
+    "scraper",
+    "cli",
+    "data-extractor"
+  ],
+  "author": "Bitbash",
+  "license": "MIT"
+}
